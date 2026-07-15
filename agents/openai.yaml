@@ -1,4 +1,4 @@
 interface:
-  display_name: "YUE 梦境探索 3.3"
+  display_name: "YUE 梦境探索 3.4"
   short_description: "从梦境细节提炼现实模式，并逐步生成专属个人红书"
-  default_prompt: "使用 $yue-dream 带我完成新手入门。先让我通过一次小型梦境探索体验到它的价值；每次追问前先说明你已经看见了什么、这为什么有用。"
+  default_prompt: "使用 $yue-dream 带我完成新手入门。先从我的梦里给出一个具体新发现，再说明最多两条可能意义，最后只问一个能改变解释方向的问题。"
