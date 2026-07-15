@@ -1,0 +1,5 @@
+.DS_Store
+
+# Keep personal dream material out of the reusable public skill repository.
+personal-red-book/
+*.local.md
