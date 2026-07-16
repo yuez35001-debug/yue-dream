@@ -1,4 +1,4 @@
 interface:
-  display_name: "YUE 梦境探索 4.0"
+  display_name: "YUE 梦境探索 4.1"
   short_description: "从梦境细节产生发现，再连接可验证的现实变化"
-  default_prompt: "使用 $yue-dream 帮我探索一个梦。先给出一个有细节依据的新发现，再说明可能意义；每个追问都必须服务我想要的结果。只在我选择后，再把发现连到可观察的现实动作。"
+  default_prompt: "使用 $yue-dream 帮我探索一个梦。先给出有细节依据的新发现，并尝试从异常动作、感受与说法的落差中提炼可校准的隐形动作。每个追问都必须服务我想要的结果。"
